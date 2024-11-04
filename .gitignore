@@ -1,0 +1,4 @@
+venv/
+django_shop/main/__pycache__/
+django_shop/django_shop/__pycache__/
+django_shop/main/migrations/__pycache__/
