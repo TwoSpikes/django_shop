@@ -45,3 +45,7 @@ repos:
     entry: "sh django_shop/django_shop/tests.sh"
     language: system
     verbose: true
+-   repo: https://github.com/PyCQA/flake8
+    rev: 7.0.0
+    hooks:
+    -   id: flake8
